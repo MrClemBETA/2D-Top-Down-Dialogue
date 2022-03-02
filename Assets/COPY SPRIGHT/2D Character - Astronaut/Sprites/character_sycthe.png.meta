@@ -1,0 +1,2207 @@
+fileFormatVersion: 2
+guid: 2cd92e9f32354f3c924b9ba0617cfbd3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sycthe_0
+    21300002: sycthe_1
+    21300004: sycthe_2
+    21300006: sycthe_3
+    21300008: sycthe_4
+    21300010: sycthe_5
+    21300012: sycthe_6
+    21300014: sycthe_7
+    21300016: sycthe_8
+    21300018: sycthe_9
+    21300020: sycthe_10
+    21300022: sycthe_11
+    21300024: sycthe_12
+    21300026: sycthe_13
+    21300028: sycthe_14
+    21300030: sycthe_15
+    21300032: sycthe_16
+    21300034: sycthe_17
+    21300036: sycthe_18
+    21300038: sycthe_19
+    21300040: sycthe_20
+    21300042: sycthe_21
+    21300044: sycthe_22
+    21300046: sycthe_23
+    21300048: sycthe_24
+    21300050: sycthe_25
+    21300052: sycthe_26
+    21300054: sycthe_27
+    21300056: sycthe_28
+    21300058: sycthe_29
+    21300060: sycthe_30
+    21300062: sycthe_31
+    21300064: sycthe_32
+    21300066: sycthe_33
+    21300068: sycthe_34
+    21300070: sycthe_35
+    21300072: sycthe_36
+    21300074: sycthe_37
+    21300076: sycthe_38
+    21300078: sycthe_39
+    21300080: sycthe_40
+    21300082: sycthe_41
+    21300084: sycthe_42
+    21300086: sycthe_43
+    21300088: sycthe_44
+    21300090: sycthe_45
+    21300092: sycthe_46
+    21300094: sycthe_47
+    21300096: sycthe_48
+    21300098: sycthe_49
+    21300100: sycthe_50
+    21300102: sycthe_51
+    21300104: sycthe_52
+    21300106: sycthe_53
+    21300108: sycthe_54
+    21300110: sycthe_55
+    21300112: sycthe_56
+    21300114: sycthe_57
+    21300116: sycthe_58
+    21300118: sycthe_59
+    21300120: sycthe_60
+    21300122: sycthe_61
+    21300124: sycthe_62
+    21300126: sycthe_63
+    21300128: sycthe_64
+    21300130: sycthe_65
+    21300132: sycthe_66
+    21300134: sycthe_67
+    21300136: sycthe_68
+    21300138: sycthe_69
+    21300140: character_sycthe_0
+    21300142: character_sycthe_1
+    21300144: character_sycthe_2
+    21300146: character_sycthe_3
+    21300148: character_sycthe_4
+    21300150: character_sycthe_5
+    21300152: character_sycthe_6
+    21300154: character_sycthe_7
+    21300156: character_sycthe_8
+    21300158: character_sycthe_9
+    21300160: character_sycthe_10
+    21300162: character_sycthe_11
+    21300164: character_sycthe_12
+    21300166: character_sycthe_13
+    21300168: character_sycthe_14
+    21300170: character_sycthe_15
+    21300172: character_sycthe_16
+    21300174: character_sycthe_17
+    21300176: character_sycthe_18
+    21300178: character_sycthe_19
+    21300180: character_sycthe_20
+    21300182: character_sycthe_21
+    21300184: character_sycthe_22
+    21300186: character_sycthe_23
+    21300188: character_sycthe_24
+    21300190: character_sycthe_25
+    21300192: character_sycthe_26
+    21300194: character_sycthe_27
+    21300196: character_sycthe_28
+    21300198: character_sycthe_29
+    21300200: character_sycthe_30
+    21300202: character_sycthe_31
+    21300204: character_sycthe_32
+    21300206: character_sycthe_33
+    21300208: character_sycthe_34
+    21300210: character_sycthe_35
+    21300212: character_sycthe_36
+    21300214: character_sycthe_37
+    21300216: character_sycthe_38
+    21300218: character_sycthe_39
+    21300220: character_sycthe_40
+    21300222: character_sycthe_41
+    21300224: character_sycthe_42
+    21300226: character_sycthe_43
+    21300228: character_sycthe_44
+    21300230: character_sycthe_45
+    21300232: character_sycthe_46
+    21300234: character_sycthe_47
+    21300236: character_sycthe_48
+    21300238: character_sycthe_49
+    21300240: character_sycthe_50
+    21300242: character_sycthe_51
+    21300244: character_sycthe_52
+    21300246: character_sycthe_53
+    21300248: character_sycthe_54
+    21300250: character_sycthe_55
+    21300252: character_sycthe_56
+    21300254: character_sycthe_57
+    21300256: character_sycthe_58
+    21300258: character_sycthe_59
+    21300260: character_sycthe_60
+    21300262: character_sycthe_61
+    21300264: character_sycthe_62
+    21300266: character_sycthe_63
+    21300268: character_sycthe_64
+    21300270: character_sycthe_65
+    21300272: character_sycthe_66
+    21300274: character_sycthe_67
+    21300276: character_sycthe_68
+    21300278: character_sycthe_69
+    21300280: character_sycthe_70
+    21300282: character_sycthe_71
+    21300284: character_sycthe_72
+    21300286: character_sycthe_73
+    21300288: character_sycthe_74
+    21300290: character_sycthe_75
+    21300292: character_sycthe_76
+    21300294: character_sycthe_77
+    21300296: character_sycthe_78
+    21300298: character_sycthe_79
+    21300300: character_sycthe_80
+    21300302: character_sycthe_81
+    21300304: character_sycthe_82
+    21300306: character_sycthe_83
+    21300308: character_sycthe_84
+    21300310: character_sycthe_85
+    21300312: character_sycthe_86
+    21300314: character_sycthe_87
+    21300316: character_sycthe_88
+    21300318: character_sycthe_89
+    21300320: character_sycthe_90
+    21300322: character_sycthe_91
+    21300324: character_sycthe_92
+    21300326: character_sycthe_93
+    21300328: character_sycthe_94
+    21300330: character_sycthe_95
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_sycthe_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1832
+        width: 162
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56398fc1e9afde42ac15e6483db9f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1832
+        width: 162
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013f92c14c31994c92746e9a55415cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1832
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa630192d5b6e48a2cec2fd26ee17b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1832
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20000f3572fa4fd4aa06dea152eaf6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_4
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1832
+        width: 155
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d459e6844f738418203d5b4217464f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_5
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1832
+        width: 146
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b64087fb3c8349bafd1b5d28aea3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_6
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1832
+        width: 141
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f56fb182249884298b87583a96078b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_7
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1833
+        width: 140
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f06f46ad5d6016449501d4d514ca4a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_8
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1832
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3fca41a6ec63f4f92582c3970554c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_9
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1832
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b60f34235dd147b6cc79e651c8ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_10
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1832
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c47d7304a3522941a579c058d1a4810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1533
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8def4ec67c79ec4db4bfaf7c7996af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1533
+        width: 138
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a0c922e08c514387cb074336e4e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1528
+        width: 133
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9790d8b65a2d047a6e731cd1532741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1616
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e72c2e44a85ae54ebc691286250de7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_15
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1592
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9b4aed7860c0408bbd4a2305b1d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_16
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1616
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b49d862017b945a45464ff4c3e63b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_17
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8959603a2ce36b840ac4da39da80b7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_18
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1614
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bcf521efeb6e4b9a58fbff5faa257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_19
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132cb0cc58a8ce4fbc637ef66054856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_20
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1608
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9891605812f8a445b66ac8680c8c078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_21
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1592
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a640206b0b3f44b88cb067c9eb93de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_22
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 1599
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0576864f7cff8a74097983646fbcb578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_23
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1606
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b75e91350e2ad44904d4450351c8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_24
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1598
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7935eefe75075646b25d6c571d13311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_25
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1576
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652844964bcbe5b45b11526500622ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_26
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 1575
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ebc290404ee2043a7a2b4b7b5684de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_27
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 1578
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8f7390c2283c49b2965137af8f99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_28
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1543
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6646bbdbc4b2247844e63e0aa9582b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_29
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1544
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb0ed804ac76c4dad57ca05cd874b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1272
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e19e67b153ac43ba3a0ad34930848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_31
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1264
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8788b0669c50174c86c7db59e3d9216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1256
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b4c84ac13a1b4c9a478d21fde0940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_33
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1264
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e4b3ee57c5fb4183f7c6d9df3572c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_34
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1261
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848a4bf2b9fce94c80b5cc5d6fd25c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_35
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1260
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30492571d203244c89002858c9c44be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_36
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1263
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31070263a8b3548ba910987be8933e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_37
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1256
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc4a4170c60ad74dbf3b343c29df73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_38
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7bf87bddb837745a68417d39bc16da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_39
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1256
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee81684938db8541a9ebf236f8ce462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_40
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1232
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407882d20cc44314e8af4401491f6680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_41
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1232
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55723968f6849754fbe27a6dde3d7373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_42
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1232
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40276d4b154cff043b696d0cb38d8c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_43
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1232
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc067745fbdd8ea4285b8aaee810ad37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_44
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1232
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326cc3201290ef240ba48cffd0806ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1246
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096e89183c51d06409cc2889d0c18deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1251
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4727725b1319c1f4e910e5a3a5d635f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 933
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e47122c0ae614ebd89023b51bfbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 933
+        width: 111
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc59fb2fba98064591436b868f5e038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_49
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 933
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23bd2c9f37f88447a3837d51510dd23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_50
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 933
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bd3f1676810c4d939c2a31275444a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_51
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 933
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c229e100fddc04bbbca6bbfa1e525d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_52
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 933
+        width: 106
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eff0abd3b1411408556a2357dc74a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_53
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 934
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539662ff5831ed241a3dd13669a69cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_54
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 934
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe05821f4d2f614e82c167ab22ae062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_55
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 934
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838d713b00622544a688e48369347fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_56
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 972
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b18ffc898e42c48b5c0a975d45e143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_57
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 1021
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b78d1a34f329c74d9eb86c363e0ac5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_58
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 972
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251f7b8260fa7946a1b718f63e68234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae5521e4b28834880b56cdd48e84ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 670
+        width: 130
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4a8de7de1cb84aa068d4981069876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_61
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 718
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb37bced26284342b47ae623f66e916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 669
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57188aeddd259f4382c75432a89b708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_63
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 714
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84898f6d3b3ea7498df84f3e1b75e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_64
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 663
+        width: 120
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c0d9ab0d46b5418f7ccce99a3590f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_65
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 710
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214736272a3236a419d01510a4fefa82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_66
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 656
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9baeb7bab93b814ba39ca62d01aa5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_67
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 700
+        width: 123
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07e9b0217af414e9628b5be5f783fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_68
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 702
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef73dfafe15f64eacc2ded988a2af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_69
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 704
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a793d4659529cc849ad3cbf0506547a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_70
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 703
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965e2c90772f194bbbe210fdd033d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_71
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 701
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf4a0a005ac4049bdb2c745a7daced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_72
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 688
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580bfd34dfe8f94dbf83430d6da9af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_73
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 665
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225b969e53c2b946b394ee490ad705f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_74
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 666
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06984011211fbc64f84dcc7fe050d9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_75
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 665
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38002998985a4e44180322eba8fddf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_76
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 663
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d342f690c36054198a86bd32cb8c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_77
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 663
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a22f412b8347245b982b668e5cf008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_78
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 662
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021cbdf8754e42d489299a4edfa7f406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_79
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 659
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e931b65cbd1b40aab9f74368c6043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_80
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 662
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b27fa49c2c6f674a9aabfca2801534e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 357
+        width: 131
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904965de7ef17654eb1d9e00d723b150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 334
+        width: 127
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eeb05d2ebf3e34fbe6dc9b7eb417f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_83
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 334
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df799601cd8530a448fd84920f64ed59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_84
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 334
+        width: 126
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf006292f8a5fe0418e9c0a35ac186fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_85
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 334
+        width: 126
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9815469f94f22648a86084a4e5bcf1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_86
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 334
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434d8df25b742a2448b8d8efde0c8d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_87
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 334
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7bdd69636724449da901e5c557a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_88
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 334
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181a10a64ca3084ab42e0ac93b9977a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_89
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 334
+        width: 132
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226dc98dee82c0e47ba892b0b1b870c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_90
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 334
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67bab31f5396a4a9a30419a42faae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_91
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 334
+        width: 127
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349b090f0beefc4daa1a65d6b52061e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 130
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29257f0ea4723774bbb1e3ea37d45db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 32
+        width: 127
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7669652bf9fe4ae49a3f1f50b851f4b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 33
+        width: 141
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79acb73796eab844a908231a8a6958b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_sycthe_95
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 32
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66422a1eba16835448c46c320eff578f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

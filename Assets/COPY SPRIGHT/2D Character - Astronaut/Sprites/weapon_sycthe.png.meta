@@ -1,0 +1,1108 @@
+fileFormatVersion: 2
+guid: 859caa1337f1497c857b71771e7c5295
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sycthe_0
+    21300002: sycthe_1
+    21300004: sycthe_2
+    21300006: sycthe_3
+    21300008: sycthe_4
+    21300010: sycthe_5
+    21300012: sycthe_6
+    21300014: sycthe_7
+    21300016: sycthe_8
+    21300018: sycthe_9
+    21300020: sycthe_10
+    21300022: sycthe_11
+    21300024: sycthe_12
+    21300026: sycthe_13
+    21300028: sycthe_14
+    21300030: sycthe_15
+    21300032: sycthe_16
+    21300034: sycthe_17
+    21300036: sycthe_18
+    21300038: sycthe_19
+    21300040: sycthe_20
+    21300042: sycthe_21
+    21300044: sycthe_22
+    21300046: sycthe_23
+    21300048: sycthe_24
+    21300050: sycthe_25
+    21300052: sycthe_26
+    21300054: sycthe_27
+    21300056: sycthe_28
+    21300058: sycthe_29
+    21300060: sycthe_30
+    21300062: sycthe_31
+    21300064: sycthe_32
+    21300066: sycthe_33
+    21300068: sycthe_34
+    21300070: sycthe_35
+    21300072: sycthe_36
+    21300074: sycthe_37
+    21300076: sycthe_38
+    21300078: sycthe_39
+    21300080: sycthe_40
+    21300082: sycthe_41
+    21300084: weapon_sycthe_0
+    21300086: weapon_sycthe_1
+    21300088: weapon_sycthe_2
+    21300090: weapon_sycthe_3
+    21300092: weapon_sycthe_4
+    21300094: weapon_sycthe_5
+    21300096: weapon_sycthe_6
+    21300098: weapon_sycthe_7
+    21300100: weapon_sycthe_8
+    21300102: weapon_sycthe_9
+    21300104: weapon_sycthe_10
+    21300106: weapon_sycthe_11
+    21300108: weapon_sycthe_12
+    21300110: weapon_sycthe_13
+    21300112: weapon_sycthe_14
+    21300114: weapon_sycthe_15
+    21300116: weapon_sycthe_16
+    21300118: weapon_sycthe_17
+    21300120: weapon_sycthe_18
+    21300122: weapon_sycthe_19
+    21300124: weapon_sycthe_20
+    21300126: weapon_sycthe_21
+    21300128: weapon_sycthe_22
+    21300130: weapon_sycthe_23
+    21300132: weapon_sycthe_24
+    21300134: weapon_sycthe_25
+    21300136: weapon_sycthe_26
+    21300138: weapon_sycthe_27
+    21300140: weapon_sycthe_28
+    21300142: weapon_sycthe_29
+    21300144: weapon_sycthe_30
+    21300146: weapon_sycthe_31
+    21300148: weapon_sycthe_32
+    21300150: weapon_sycthe_33
+    21300152: weapon_sycthe_34
+    21300154: weapon_sycthe_35
+    21300156: weapon_sycthe_36
+    21300158: weapon_sycthe_37
+    21300160: weapon_sycthe_38
+    21300162: weapon_sycthe_39
+    21300164: weapon_sycthe_40
+    21300166: weapon_sycthe_41
+    21300168: weapon_sycthe_42
+    21300170: weapon_sycthe_43
+    21300172: weapon_sycthe_44
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_sycthe_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1934
+        width: 256
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817866d2286ffbb46b95592c28f85550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1928
+        width: 256
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb643b1dc2a2ef4188ff2dd4563e0a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1928
+        width: 252
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6c985346c3fb4f879ee73ac0359fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_3
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1918
+        width: 246
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3bb520945d1d4c9f9528994d00f9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_4
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1896
+        width: 225
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb9443c5a0b5c419c9c272dec07fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_5
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1882
+        width: 166
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018941c6a9c4f24ca377c87adb53098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_6
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1752
+        width: 264
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b451035f3295742a1cbc4942de4c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_7
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1755
+        width: 281
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f8b55c6d62204ab49985edf45a9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_8
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1840
+        width: 27
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f09719adb0dba4899a0b85cf09bdf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_9
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1760
+        width: 254
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9056fb3e1bc85c84dba8a58558fe2fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1336
+        width: 256
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96cae4a74031445a62b137414cebc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1354
+        width: 258
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b110460361371d47bc7000a42a08f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_12
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1366
+        width: 259
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8327c89aa5fd4892b0c67fdb3c444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_13
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1374
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00602266aafc70540b909da68c77f8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1376
+        width: 258
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05186cd1515d8b14e81436d709717318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_15
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1445
+        width: 132
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b73f704e7b3847add414e71916b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_16
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1445
+        width: 136
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275cb23b58bce9a43b5284042da2f286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1444
+        width: 136
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed0609d96f12b9499c2392969f60222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_18
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1440
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923679de6fdba04096428813f7d9845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1007
+        width: 188
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2983d978344d4cab53a366c9bd859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1016
+        width: 234
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc61cba33e3a6409d3908628994d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 880
+        width: 291
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c154816bae904aa715d79972eada2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_22
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 872
+        width: 276
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bf7d2ad6988642b852927ced0d550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_23
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 886
+        width: 133
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2f93cacc4bb541886cc82487df04e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_24
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 883
+        width: 139
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd48f024f71814f838f43a1480a39f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_25
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 880
+        width: 192
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5466d914eafef445875fb19acb0126a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_26
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 904
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5fc9075b92bce44aa894901715f467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_27
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 932
+        width: 259
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da160a2d6a0a8094fb765a1ca3ab5184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_28
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 871
+        width: 139
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ddcdc7ce6b0ec4b87ee5cdd8da911c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 264
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da53e248307fe498258a93d74af51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 487
+        width: 228
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf14e0bc1e55746a07fa5c633243c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_31
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 488
+        width: 228
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6cac8aef63e08488de51a6c0ce1590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_32
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 494
+        width: 237
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79831a54b258db4cab48e8b19c9bc4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_33
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 512
+        width: 244
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844b31aaa66c2a45aa745a55be630c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_34
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 560
+        width: 258
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c52e3d0b84d2d4f8ad59686eecd53d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_35
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 616
+        width: 256
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe41f0bcc82d2046b5e04010345b0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_36
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 584
+        width: 290
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819b0d1e4c048d44a1ad25adf46855e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_37
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 586
+        width: 275
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6724c2d609744d82c1d4dbd523051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 152
+        width: 132
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09cd61dd19bef5458cd19d19e77e4ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 362
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252f20fe70b97f4ba93ded74bf76bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 151
+        width: 139
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451d670b35a5a04a950f07cba60f9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_41
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 144
+        width: 176
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efbc60f28c10bc4f95e2b121ffba277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_42
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 149
+        width: 240
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bb77e369e28841994779cc2aa7215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_43
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 152
+        width: 256
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfe06bff8693ff4cacbddb41e71883d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sycthe_44
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 152
+        width: 258
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750f8018544f7b43b92675441577895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
